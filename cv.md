@@ -31,7 +31,9 @@ I learned __HTML, CSS, JS__. I understand the basic principles of layout, JS cap
 **Education**
 
 Finished courses on the __basics of HTML / CSS__, as well as the main course __JS/React__(studied at __myfreedeom.by__). Studied books “React.js The course for beginners” M. Paciansky, “Head First JavaScript Programming: A Brain-Friendly Guide” E. Freeman & E. Robson.
+
 **English**
 
-Studied only on video tapes from the 90s. Yes, and some of them were in German… I can read and translate with a dictionary (Google Translate is my best frend!)
+Studied only on video tapes from the 90s. Yes, and some of them were in German… I can read and translate with a dictionary (Google Translate is my best frend!).
+
 My level is __Pre-Intermediate (A2)__.
