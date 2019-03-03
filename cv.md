@@ -1,4 +1,4 @@
-*Max Murach*
+**Max Murach**
 
 Tel: +375 33 327 03 54 (city phone number: +375 017 296 73 50)
 
@@ -16,7 +16,7 @@ I am ready for difficulties, I am ready to independently improve my skill and le
 
 **My Skills**
 
-I learned _HTML, CSS, JS_. I understand the basic principles of layout, JS capabilities, I own all the terms, I can use _ES6_. Studied and know how to apply _Bootstrap_. I understand the principles of working with _frameworks_. I understand _React_ and know how use it. Finally I`ve learned the basics of _Redux_.
+I learned __HTML, CSS, JS__. I understand the basic principles of layout, JS capabilities, I own all the terms, I can use __ES6__. Studied and know how to apply __Bootstrap__. I understand the principles of working with __frameworks__. I understand __React__ and know how use it. Finally I`ve learned the basics of __Redux__.
 
 **Work Examples**
 
@@ -30,8 +30,8 @@ I learned _HTML, CSS, JS_. I understand the basic principles of layout, JS capab
 
 **Education**
 
-Finished courses on the _basics of HTML / CSS_, as well as the main course _JS/React_(studied at _myfreedeom.by_). Studied books “React.js The course for beginners” M. Paciansky, “Head First JavaScript Programming: A Brain-Friendly Guide” E. Freeman & E. Robson.
+Finished courses on the __basics of HTML / CSS__, as well as the main course __JS/React__(studied at __myfreedeom.by__). Studied books “React.js The course for beginners” M. Paciansky, “Head First JavaScript Programming: A Brain-Friendly Guide” E. Freeman & E. Robson.
 **English**
 
 Studied only on video tapes from the 90s. Yes, and some of them were in German… I can read and translate with a dictionary (Google Translate is my best frend!)
-My level is _Pre-Intermediate (A2)_.
+My level is __Pre-Intermediate (A2)__.
